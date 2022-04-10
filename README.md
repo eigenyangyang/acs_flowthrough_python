@@ -9,4 +9,4 @@ References:
 2) Liu et al. (2019) Retrieval of Phytoplankton pigments from underway spectrophotometry in the Fram Strait. Remote Sensing, 11(3), 318.
 3) Literature cited by the above two papers.
 
-Matlab codes can be found at https://github.com/phytooptics/acs_flowthrough_matlab
+Matlab codes can be found at https://github.com/eigenyangyang/acs_flowthrough_matlab
